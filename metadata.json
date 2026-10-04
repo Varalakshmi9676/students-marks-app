@@ -1,0 +1,6 @@
+{
+  "name": "Student Marks App",
+  "description": "A clean, responsive, and minimal Student Marks and Registration App. Features student registration, marks entry, statistics, grade calculations, data analysis, search, report card generation, and JSON/CSV import-export features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
